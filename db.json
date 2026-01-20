@@ -1,0 +1,85 @@
+{
+    "users" : [
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "username": "alicej",
+    "email": "alice.johnson@example.com",
+    "phone": "123-456-7890",
+    "website": "alicejohnson.com"
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "username": "bobsmith",
+    "email": "bob.smith@example.com",
+    "phone": "234-567-8901",
+    "website": "bobsmith.io"
+  },
+  {
+    "id": 3,
+    "name": "Charlie Brown",
+    "username": "charlieb",
+    "email": "charlie.brown@example.com",
+    "phone": "345-678-9012",
+    "website": "charliebrown.org"
+  },
+  {
+    "id": 4,
+    "name": "Diana Prince",
+    "username": "dianap",
+    "email": "diana.prince@example.com",
+    "phone": "456-789-0123",
+    "website": "dianaprince.net"
+  },
+  {
+    "id": 5,
+    "name": "Ethan Hunt",
+    "username": "ethanh",
+    "email": "ethan.hunt@example.com",
+    "phone": "567-890-1234",
+    "website": "ethanhunt.com"
+  },
+  {
+    "id": 6,
+    "name": "Fiona Gallagher",
+    "username": "fionag",
+    "email": "fiona.gallagher@example.com",
+    "phone": "678-901-2345",
+    "website": "fionagallagher.org"
+  },
+  {
+    "id": 7,
+    "name": "George Martin",
+    "username": "georgem",
+    "email": "george.martin@example.com",
+    "phone": "789-012-3456",
+    "website": "georgemartin.io"
+  },
+  {
+    "id": 8,
+    "name": "Hannah Baker",
+    "username": "hannahb",
+    "email": "hannah.baker@example.com",
+    "phone": "890-123-4567",
+    "website": "hannahbaker.com"
+  },
+  {
+    "id": 9,
+    "name": "Ian Somerhalder",
+    "username": "ians",
+    "email": "ian.somerhalder@example.com",
+    "phone": "901-234-5678",
+    "website": "iansomerhalder.net"
+  },
+  {
+    "id": 10,
+    "name": "Julia Roberts",
+    "username": "juliar",
+    "email": "julia.roberts@example.com",
+    "phone": "012-345-6789",
+    "website": "juliaroberts.org"
+  }
+]
+}
+
